@@ -1,0 +1,9 @@
+:~  title+'friend-adder3'
+    info+'A schematic agent to brighten your day.'
+    color+0x1d.1f21
+    image+''
+    version+[0 0 1]
+    website+'https://urbit.org/'
+    license+'MIT'
+    site+/friend-adder3
+==
